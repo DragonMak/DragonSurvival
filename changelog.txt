@@ -1,0 +1,13 @@
+0.0.31:
+fixed crash happening when skeleton horses are spawned by lightning
+
+0.0.30:
+disabled NPE spam;
+command 'dragon' requires permission 4;
+dragons can't ride pigs;
+fixed crash when Shift + clicking in nest GUI;
+added teleportation cooldown to the Magical Predator;
+added usage cooldown to Dragon altar;
+
+0.0.29:
+neutralized crashes

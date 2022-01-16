@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=0": {
+      "model": "dragonsurvival:block/dragon_altar"
+    }
+  }
+}
